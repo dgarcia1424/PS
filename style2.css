@@ -1,0 +1,24 @@
+.content{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: whitesmoke;
+    padding: 15px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+}
+
+#slider{
+    width: 100%;
+}
+
+#length{
+    display: inline-block;
+    width: 100%;
+}
+
+.previous_passwords{
+    margin-bottom: 15px;
+}
